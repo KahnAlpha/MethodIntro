@@ -1,0 +1,15 @@
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\bin\Debug\net7.0\MethodIntroTask1.exe
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\bin\Debug\net7.0\MethodIntroTask1.deps.json
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\bin\Debug\net7.0\MethodIntroTask1.runtimeconfig.json
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\bin\Debug\net7.0\MethodIntroTask1.dll
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\bin\Debug\net7.0\MethodIntroTask1.pdb
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\MethodIntroTask1.csproj.AssemblyReference.cache
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\MethodIntroTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\MethodIntroTask1.AssemblyInfoInputs.cache
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\MethodIntroTask1.AssemblyInfo.cs
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\MethodIntroTask1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\MethodIntroTask1.dll
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\refint\MethodIntroTask1.dll
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\MethodIntroTask1.pdb
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\MethodIntroTask1.genruntimeconfig.cache
+C:\Users\Lenovov\source\repos\MethodIntroTask1\MethodIntroTask1\obj\Debug\net7.0\ref\MethodIntroTask1.dll
